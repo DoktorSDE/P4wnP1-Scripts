@@ -4,7 +4,7 @@ This is a repository with self written Scripts for the P4wnP1
 P4wnP1 Repository: https://github.com/RoganDawes/P4wnP1_aloa
 Latest Releases: https://github.com/RoganDawes/P4wnP1_aloa/releases
 
-#Wich Folder to use
+Wich Folder to use.
 
 In the Standard folder you can find Scripts that are used on 
 Windows 10 Computers on wich there are now restrictions regarding Powershell and
@@ -16,7 +16,7 @@ or the Powershell. These can be used at Restricted computers.
 In the Trigger folder you can find every Script that is sat to run as a
 Trigger application.
 
-#You may have to code
+You may have to code.
 The scripts are currently written so that they work on Computers I am using.
 If you have a computer that is very slow you may want to change some delays so
 that the timings are right for your computers. 
